@@ -1,9 +1,6 @@
 [
     {
-        "device_id": false
-        "username": "1122",
-        "password": "1234",
-        "expirydate": "1-2-2026",
+        "Key": "1234"
         "Allowoffline": true
     },
     {
